@@ -1,5 +1,8 @@
 # Designing Clean and Organized APIs for Scalability Using FastAPI and MongoDB and PostgreSQL support.
 
+![API](https://github.com/user-attachments/assets/5854a286-caff-46b6-9b0d-adbd716307b9)
+
+
 This project demonstrates a scalable and modular RESTful API using **FastAPI**, integrating both **PostgreSQL** and **MongoDB** for data storage. It is designed to handle large-scale applications with clean project structure and extensibility.
 
 ## Features
